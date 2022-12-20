@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+header{
+  background-color: black;
+  width: 100%;
+  position:fixed;
+  z-index: 999;
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+
+.logo{
+    text-decoration: none;
+    color: rgba(247,163,8) ;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+    font-family: serif;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.navigation a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+    font-family: serif;
+    margin-right: 20px;
+
+}
+
+.navigation a:hover{
+    color: rgba(247,163,8);
+}
+
+section {
+    padding: 100px 200px;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(../image/ooo.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.main h2 {
+    color: #fff;
+    font-size: 3em;
+    font-weight:500;
+    font-family: serif;
+}
+
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color: rgba(247,163,8);
+    font-size: 1.5em;
+    font-weight: 600;
+    font-family: serif;
+}
+
+.main-btn {
+    color: black;
+    background-color: rgba(247,163,8);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+   font-family:serif;
+}
+
+.main-btn:hover {
+
+    transform: scale(1.1);
+}
+
+
+
+.main p{
+  color: white;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-family: serif;
+
+}

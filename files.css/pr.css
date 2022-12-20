@@ -1,0 +1,50 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote, table, tr, td, th {
+    margin: 0; padding: 0; border: 0;
+}
+
+body {
+    background-color: #000 ;
+    font: 16px Georgia, Serif; color: #ccc;
+}
+h1{
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family:cursive;
+}
+
+table {
+    border-spacing: 10px 0px;
+    width: 100%;
+
+}
+
+th, td {
+    text-align: center; padding: 10px;
+}
+
+.feature {
+    width: 183px; text-align: right;
+    font-size: 24px; font-weight: normal; color: #fff;
+}
+
+.ahmed1, .ahmed2, .omnia, .esraa {
+    background: rgba(255,255,255,0.05);
+}
+
+h2 {
+    font-size: 24px; font-weight: normal; color: #fff;
+}
+
+tr:hover {
+    background: rgba(255,255,255,0.05);
+}
+thead tr:hover {
+        background: none;
+    }
+img{
+      border-radius: 50%;
+      overflow: hidden;
+      width: 200px;
+      height: 200px;
+    }

@@ -1,0 +1,171 @@
+body{
+  background-image: url(../image/88.jpg);
+  background-size: cover;
+}
+
+hr{
+   border-style:solid ;
+}
+
+
+.title{
+    color:#203656;
+}
+
+ .special{
+    color:#203656;
+ }
+
+ a{
+    color: blue;
+ }
+
+ p{
+   font-size: 20px;
+   font-style: "times new roman";
+   line-height: 35px;
+ }
+
+ .content{
+   border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   background-color: #ddd;
+   margin:15px 80% 0 15px;
+ }
+ .content_border{
+   border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   background-color: #ddd;
+   padding:10px 0px 10px 47px;
+   margin: -2px -1px;
+ }
+
+.reference{
+   border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   background-color: #ddd;
+   margin:15px 70% 0 15px;
+}
+
+.reference1{
+   border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   background-color: #ddd;
+   padding:10px 0px 10px 47px;
+   margin: -2px -1px;
+}
+
+
+.HATSHEPSUT{
+
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 2% 83%;
+   padding: 0 0  1%;
+}
+
+
+.p1{
+   margin-top:-35%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+.THUTMOSE{
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 2% 83%;
+   padding: 0 0  1%;
+}
+
+.p2{
+   margin-top:-35%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+.RAMESSES{
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 2% 83%;
+   padding: 0 0  1%;
+}
+
+.p3{
+   margin-top:-35%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+.AMENHOTEP{
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0px 15% 2% 80%;
+   padding: 0px 19%  0px 0px;
+}
+
+.p4{
+   margin-top:-30%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+.TUTANKHAMUN{
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 2% 80%;
+   padding: 0 0  1%;
+}
+
+.TUTANKHAMUN1{
+   border-color: black;
+   border-style:hidden;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 2% 83%;
+   padding: 0 0  1%;
+}
+
+.p5{
+   margin-top:-30%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+
+.p7{
+   margin-top:-19%;
+   margin-bottom: 2%;
+   line-height: 40px;
+}
+
+.CLEOPATRA{
+   border-color: black;
+   border-style:solid;
+   background-color: #ffffff;
+   border-width: 3px;
+   margin: 0 0 10% 81%;
+   padding: 0 0  1% 1%;
+}
+
+
+
+.p6{
+   margin-top:-42%;
+   margin-bottom: 2%;
+   line-height: 42px;
+}
